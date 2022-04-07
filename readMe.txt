@@ -11,12 +11,11 @@ Overview:
 -Some of the analysis and charts in this repository were used in a reply comment filed with the FCC in response to CG Docket No. 22-2: Empowering Broadband Consumers Through Transparency 
 
 
-Structure: 
--Four major files:
-	1. Download and upload metric analysis for multiple concurrent TCP connections on IPv4
-	2. Download and upload metric analysis for multiple concurrent TCP connections vs single TCP connection results on IPv4
-	3. Latency data analysis on IPv4
-	4. Reliability analysis on IPv4
+Repo Structure: 
+1. Download and upload metric analysis for multiple concurrent TCP connections on IPv4
+2. Download and upload metric analysis for multiple concurrent TCP connections vs single TCP connection results on IPv4
+3. Latency data analysis on IPv4
+4. Reliability analysis on IPv4
 
 
 FCC Reply Comment: 
