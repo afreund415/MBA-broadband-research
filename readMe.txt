@@ -17,6 +17,9 @@ Repo Structure:
 FCC Reply Comment: 
 -https://www.fcc.gov/ecfs/search/search-filings/filing/10325135839677
 
+FCC Ex Parte Notice: 
+-https://www.fcc.gov/ecfs/search/search-filings/filing/10411036932837
+
 FCC Reply Comment Addendum: 
 -https://www.fcc.gov/ecfs/search/search-filings/filing/1032725547909
 
