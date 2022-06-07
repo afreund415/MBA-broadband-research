@@ -5,8 +5,9 @@ Andreas Freund, Internet Real-Time Lab, Columbia University, Department of Compu
 Overview: 
 -The analysis was performed on the MBA's 11th report's validated dataset for fixed-broadband. 
 -The validated dataset from the 11th report contains test results for September-October 2020 for a variety of ISPs and throughput tiers. 
--The analysis was performed Google's BigQuery, Google Cloud Storage, Jupyter Notebooks, and Python
+-The analysis was performed using BigQuery, Google Cloud Storage, Jupyter Notebooks, and Python
 -The analysis and charts in this repository were used in a Reply Comment and presented in two Ex Parte meetings with the FCC as part of the CG Docket No. 22-2: Empowering Broadband Consumers Through Transparency proceeding (cited below).
+-The research is ongoing and will be presented as a paper at TPRC 2022 in Washington DC in September, 2022: http://www.tprcweb.com/accepted-papers
 
 Repo Structure: 
 1. Download and upload metric analysis for multiple concurrent TCP connections on IPv4
@@ -22,16 +23,17 @@ FCC Reply Comment:
 FCC Reply Comment Addendum: 
 -https://www.fcc.gov/ecfs/search/search-filings/filing/1032725547909
 
-FCC Reply Comment Authors:
--Henning Schulzrinne, Internet Real-Time Lab, Department of Computer Science, Columbia University
--Walter Johnston, Danu Consulting
--Andreas Freund, Department of Computer Science, Columbia University
-
 FCC Ex Parte Notice 1: 
 -https://www.fcc.gov/ecfs/search/search-filings/filing/10411036932837
 
 FCC Ex Parte Notice 2: 
 -https://www.fcc.gov/ecfs/search/search-filings/filing/1041895940875
+
+FCC Reply Comment & Ex Parte Authors:
+-Henning Schulzrinne, Internet Real-Time Lab, Department of Computer Science, Columbia University
+-Walter Johnston, Danu Consulting
+-Andreas Freund, Department of Computer Science, Columbia University
+
 
 
 11th MBA Report:
