@@ -7,7 +7,7 @@ Overview:
 -The validated dataset from the 11th report contains test results for September-October 2020 for a variety of ISPs and throughput tiers. 
 -The analysis was performed using BigQuery, Google Cloud Storage, Jupyter Notebooks, and Python
 -The analysis and charts in this repository were used in a Reply Comment and presented in two Ex Parte meetings with the FCC as part of the CG Docket No. 22-2: Empowering Broadband Consumers Through Transparency proceeding (cited below).
--The research is ongoing and will be presented as a paper at TPRC 2022 in Washington DC in September, 2022: http://www.tprcweb.com/accepted-papers
+-The research is ongoing and will be presented as a paper at the TPRC Conference in Washington DC in September, 2022: http://www.tprcweb.com/accepted-papers
 
 Repo Structure: 
 1. Download and upload metric analysis for multiple concurrent TCP connections on IPv4
