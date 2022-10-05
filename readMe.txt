@@ -7,15 +7,10 @@ Overview:
 -The validated dataset from the 11th report contains test results for September-October 2020 for a variety of ISPs and throughput tiers. 
 -The analysis was performed using BigQuery, Google Cloud Storage, Jupyter Notebooks, and Python
 -The analysis and charts in this repository were used in a Reply Comment and presented in two Ex Parte meetings with the FCC as part of the CG Docket No. 22-2: Empowering Broadband Consumers Through Transparency proceeding (cited below).
--The research is ongoing and will be presented as a paper at the TPRC Conference in Washington DC in September, 2022: http://www.tprcweb.com/accepted-papers
+-Our research is included in a paper we've written (link below) and will be presented at the TPRC Conference in Washington DC in September, 2022: http://www.tprcweb.com/
 
-Repo Structure: 
-1. Download and upload metric analysis for multiple concurrent TCP connections on IPv4
-2. Download and upload metric analysis for multiple concurrent TCP connections vs single TCP connection results on IPv4
-3. Latency data analysis on IPv4
-4. Reliability (ping, DNS resolution, contiguous UDP packet loss) analysis on IPv4
-5. Spatial & temporal analysis on selected tiers using 95% consistency speed during peak hours for selected tiers
-
+TPRC50 Paper: 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4178758
 
 FCC Reply Comment: 
 -https://www.fcc.gov/ecfs/search/search-filings/filing/10325135839677
@@ -29,13 +24,20 @@ FCC Ex Parte Notice 1:
 FCC Ex Parte Notice 2: 
 -https://www.fcc.gov/ecfs/search/search-filings/filing/1041895940875
 
-FCC Reply Comment & Ex Parte Authors:
+TPRC50 Paper, FCC Reply Comment, and FCC Ex Parte Authors:
 -Henning Schulzrinne, Internet Real-Time Lab, Department of Computer Science, Columbia University
 -Walter Johnston, Danu Consulting
 -Andreas Freund, Department of Computer Science, Columbia University
 
 
+Repo Structure: 
+1. Download and upload metric analysis for multiple concurrent TCP connections on IPv4
+2. Download and upload metric analysis for multiple concurrent TCP connections vs single TCP connection results on IPv4
+3. Latency data analysis on IPv4
+4. Reliability (ping, DNS resolution, contiguous UDP packet loss) analysis on IPv4
+5. Spatial & temporal analysis on selected tiers using 95% consistency speed during peak hours for selected tiers
 
+**Sources**
 11th MBA Report:
 -https://www.fcc.gov/reports-research/reports/measuring-broadband-america/measuring-fixed-broadband-eleventh-report	
 
