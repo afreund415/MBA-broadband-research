@@ -7,10 +7,19 @@ Overview:
 -The validated dataset from the 11th report contains test results for September-October 2020 for a variety of ISPs and throughput tiers. 
 -The analysis was performed using BigQuery, Google Cloud Storage, Jupyter Notebooks, and Python
 -The analysis and charts in this repository were used in a Reply Comment and presented in two Ex Parte meetings with the FCC as part of the CG Docket No. 22-2: Empowering Broadband Consumers Through Transparency proceeding (cited below).
--Our research is included in a paper we've written (link below) and will be presented at the TPRC Conference in Washington DC in September, 2022: http://www.tprcweb.com/
+-Our research is included in a paper we've written (link below) and was presented at the TPRC Conference in Washington DC in September, 2022: http://www.tprcweb.com/
 
-TPRC50 Paper: 
+Paper: 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4178758
+
+TPRC Presentation:
+https://static.sched.com/hosted_files/tprc2022a/b2/TPRC50%20-%202022-09-17%2010.26.04.pdf
+
+Recording of TPRC Presentation:
+https://youtu.be/eoIzjHHdBRw?t=1671
+
+
+
 
 FCC Reply Comment: 
 -https://www.fcc.gov/ecfs/search/search-filings/filing/10325135839677
