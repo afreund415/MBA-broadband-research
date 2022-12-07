@@ -8,6 +8,7 @@ Overview:
 -The analysis was performed using BigQuery, Google Cloud Storage, Jupyter Notebooks, and Python
 -The analysis and charts in this repository were used in a Reply Comment and presented in two Ex Parte meetings with the FCC as part of the CG Docket No. 22-2: Empowering Broadband Consumers Through Transparency proceeding (cited below).
 -Our research is included in a paper we've written (link below) and was presented at the TPRC Conference in Washington DC in September, 2022: http://www.tprcweb.com/
+-Research cited in the FCC's Order on Broadband Labels issued on 11/17/22
 
 Paper: 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4178758
